@@ -49,6 +49,10 @@ Clustering is the task of dividing the unlabeled data or data points into differ
 
 ## Key Features
 
+1. Data Loading:The script loads Spotify song data from CSV files (Final_database.csv and Database_to_calculate_popularity.csv) using PySpark.
+
+
+
 
 
 
