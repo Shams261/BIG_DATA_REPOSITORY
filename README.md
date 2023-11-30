@@ -51,6 +51,9 @@ Clustering is the task of dividing the unlabeled data or data points into differ
 
 1. Data Loading:The script loads Spotify song data from CSV files (Final_database.csv and Database_to_calculate_popularity.csv) using PySpark.
 
+2. Exploratory Data Analysis (EDA): Conducts EDA to understand various aspects of the dataset, such as popular artists, genres, and trends over time.
+
+
 
 
 
