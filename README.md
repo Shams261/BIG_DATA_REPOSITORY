@@ -53,6 +53,15 @@ Clustering is the task of dividing the unlabeled data or data points into differ
 
 2. Exploratory Data Analysis (EDA): Conducts EDA to understand various aspects of the dataset, such as popular artists, genres, and trends over time.
 
+3. Clustering: Applies clustering techniques, including KMeans, to identify patterns and similarities among songs.
+
+4. Dimensionality Reduction:Uses PCA (Principal Component Analysis) for reducing the dimensionality of the data and visualizing it in two dimensions.
+
+5. Collaborative Filtering:Implements collaborative filtering with the ALS (Alternating Least Squares) algorithm to provide song recommendations based on user listening 
+   history.
+
+6. Song Similarity: It allows users to find the most similar songs to a given input song using cosine similarity.
+
 
 
 
